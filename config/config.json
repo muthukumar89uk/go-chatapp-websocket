@@ -1,0 +1,12 @@
+{
+    "DB":{
+        "userName":"postgres",
+        "password":"password",
+        "host":"localhost",
+        "port":"5432",
+        "dbName":"checkDB"
+    },
+    "listen":{
+        "port":":8080"
+    }
+}
