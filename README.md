@@ -23,6 +23,8 @@ The project is organized into several packages, each responsible for specific fu
 
    ```
    git clone https://github.com/muthukumar89uk/go-chatapp-websocket.git
+   ```
+   
 Click here to directly [download it](https://github.com/muthukumar89uk/go-chatapp-websocket/zipball/master).
 
 ### Install dependencies:
